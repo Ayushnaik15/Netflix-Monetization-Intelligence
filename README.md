@@ -74,5 +74,4 @@ improve audience targeting, and maximize ad revenue. By combining content perfor
 insights, the project showcases a data-driven approach to advertising monetization in the OTT streaming industry.
 
 Dashboard Preview link :-
-
-https://github.com/Ayushnaik15/Netflix-Monetization-Intelligence/blob/main/Netflix%20Ad%20Analytics%20Dashboard%20Preview%20.png
+https://github.com/Ayushnaik15/Netflix-Monetization-Intelligence/blob/main/Netflix%20Ad%20Analytics%20Dashboard%20preview%20.png
